@@ -34,7 +34,7 @@ The goal was to create a **personal cloud + media server** that:
 
 ## ⚙️ Software Stack
 
-- **Bootloader**: ARC Loader
+- **Bootloader**: ARC Loader ( Can be downloaded from here https://xpenology.tech/arc-loader/ )
 - **OS**: Synology DSM 7.1 (DS918+ model)
 - **Remote Access**: Tailscale
 - **Media Server**: Plex
